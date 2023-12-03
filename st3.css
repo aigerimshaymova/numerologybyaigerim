@@ -1,0 +1,9 @@
+body{
+    background: #ffffff url(../site/img/blue-galaxy-iphone-5tzdtcq9rzz6qfrx.jpg) center center/cover no-repeat local;
+  }
+.row{
+    height: 500px;
+    width: 1000px;
+    display: flex;
+    justify-content:center;
+}
